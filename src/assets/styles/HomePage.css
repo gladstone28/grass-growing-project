@@ -1,0 +1,21 @@
+.home-page {
+  padding: 20px;
+}
+
+h1 {
+  font-size: 2.5rem;
+  color: #006400;
+}
+
+.btn {
+  background-color: #32CD32;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  font-size: 1.2rem;
+}
+
+.btn:hover {
+  background-color: #228B22;
+}
